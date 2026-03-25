@@ -19,3 +19,9 @@ Siga os passos de instalação conforme as boas práticas de colaboração onlin
 1. **Clonar o Repositório**: Baixe o projeto para o seu ambiente local. 
    ```bash
    git clone https://github.com/abeatrizz/Desafio-LLM.git
+2. **Instalar Dependências**: Prepare o ambiente Node.js.
+   ```bash
+  npm install
+3. **Execução**: Rode o script principal para iniciar a interação com a LLM.
+   ```bash
+  node index.js
