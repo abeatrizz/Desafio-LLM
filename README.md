@@ -10,8 +10,8 @@ Para a gestão de produtos modernos, entender o potencial e as limitações da I
 * **Qualidade de Saída**: Foco no refinamento das interações para garantir resultados úteis e precisos.
 
 ### 🛠️ Tecnologias Utilizadas
-* **Python**: Linguagem principal para integração com modelos de IA.
-* **LLM (Large Language Model)**: Tecnologia de base para geração de conteúdo/análise.
+* **JavaScript / Node.js**: Stack principal utilizada para a construção da lógica de integração e comunicação com a IA.
+* **Modelos de Linguagem (LLM)**: Tecnologia de base para o processamento e geração de conteúdo inteligente.
   
 ### 🚀 Como Executar (Fluxo de Trabalho)
 Siga os passos de instalação conforme as boas práticas de colaboração online:
